@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Niconne&display=swap");
+.navbar-collapse {
+  flex-grow: 0; }
+
+.header {
+  background-image: url("assets/imgs/213223.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px; }
+  .header .navbar {
+    background-color: transparent !important; }
+  .header img {
+    height: 100px;
+    width: 100px; }
+  .header h1 {
+    font-size: 70px;
+    font-family: 'Niconne', cursive;
+    color: black; }
+  .header p {
+    font-size: 32px; }
+  .header .nav-link {
+    margin-right: 30px; }
+  .header .container {
+    text-align: center;
+    padding: 32px; }
